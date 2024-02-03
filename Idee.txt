@@ -1,0 +1,6 @@
+Lorsque on pose un batiment creer une liaison avec tout les batiment lié pour verifier les gouleaux
+Si un gouleaux est bouché alors remplir tout les autres gouleaux lié avec des routes
+
+Probleme que je ne sais pas comment regler : Les losanges de maison
+
+Solution : calculer tout les chemins pour aller a une case si tout les chemins passe par une case alors on met une route
